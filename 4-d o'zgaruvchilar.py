@@ -2,7 +2,7 @@
 """
 Created on Sun Feb 26 23:05:44 2023
 
-@author: tuych
+@author: Jakhongir Tuychiev
 """
 
 ism = 'Jakhongir'
